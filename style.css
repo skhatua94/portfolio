@@ -1,0 +1,86 @@
+body {
+  font-family: "Dosis", sans-serif;
+  text-align: center;
+  background: linear-gradient(35deg, #ccffff, #ffcccc);
+  margin: 0px;
+}
+
+h2 {
+  color: #008080;
+}
+
+p {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#welcome-section {
+  padding: 50px;
+  color: #008080;
+}
+
+iframe {
+  border: 3px solid lightblue;
+}
+
+#navbar {
+  list-style-type: none;
+  background-color: black;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px 0px 10px 20px;
+}
+
+nav ul li a {
+  color: #008080;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #a7bfe8;
+}
+
+.project-pic {
+  border: 2px solid pink;
+  width: 400px;
+  height: 300px;
+}
+
+.project {
+  text-decoration: none;
+  color: #008080;
+  display: inline-block;
+  overflow: hidden;
+  border: 2px solid lightblue;
+  padding: 20px;
+}
+
+.Photography {
+  border: 2px solid lightblue;
+}
+
+.contact-details {
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 35px 45px 35px;
+  list-style-type: none;
+  border: 2px solid #90c695;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  background: #e0ebe8;
+  color: #008080;
+  text-decoration: none;
+}
+
+.contact-details:hover {
+  background: #e4f1fe;
+}
