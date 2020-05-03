@@ -23,6 +23,10 @@ iframe {
   border: 2px solid lightblue;
 }
 
+#work {
+  font-size: 22px;
+}
+
 #navbar {
   list-style-type: none;
   background-color: black;
@@ -49,8 +53,8 @@ nav ul li a:hover {
 
 .project-pic {
   border: 2px solid pink;
-  width: 500px;
-  height: 300px;
+  width: 30px;
+  height: 30px;
 }
 
 .project {
@@ -59,11 +63,20 @@ nav ul li a:hover {
   display: inline-block;
   overflow: hidden;
   border: 2px solid lightblue;
-  padding: 20px;
+  padding: 30px;
 }
 
 .Photography {
   border: 2px solid lightblue;
+}
+
+#projects {
+  padding: 30px;
+  text-align: center;
+}
+
+.project-link {
+  padding: 30px;
 }
 
 .contact-details {
@@ -82,5 +95,26 @@ nav ul li a:hover {
 }
 
 .contact-details:hover {
+  background: #e4f1fe;
+}
+
+.work-details {
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 35px 45px 35px;
+  list-style-type: none;
+  border: 2px solid #90c695;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  background: #e0ebe8;
+  color: #008080;
+  text-decoration: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+.work-details:hover {
   background: #e4f1fe;
 }
