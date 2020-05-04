@@ -51,32 +51,8 @@ nav ul li a:hover {
   color: #a7bfe8;
 }
 
-.project-pic {
-  border: 2px solid pink;
-  width: 30px;
-  height: 30px;
-}
-
-.project {
-  text-decoration: none;
-  color: #008080;
-  display: inline-block;
-  overflow: hidden;
-  border: 2px solid lightblue;
-  padding: 30px;
-}
-
 .Photography {
   border: 2px solid lightblue;
-}
-
-#projects {
-  padding: 30px;
-  text-align: center;
-}
-
-.project-link {
-  padding: 30px;
 }
 
 .contact-details {
