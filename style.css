@@ -8,6 +8,7 @@ body {
 h2 {
   color: #b56fc7;
   padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 p {
@@ -94,8 +95,4 @@ nav ul li a:hover {
 
 .work-details:hover {
   background: #e4f1fe;
-}
-
-.work-header {
-  padding-top: 10px;
 }
