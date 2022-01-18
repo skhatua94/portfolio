@@ -53,10 +53,6 @@ nav ul li a:hover {
   color: #a7bfe8;
 }
 
-.Photography {
-  border: 2px solid #b56fc7;
-}
-
 .contact-details {
   display: inline-block;
   font-weight: bold;
@@ -107,4 +103,5 @@ a:visited {
 
 .project-link {
   color: #b56fc7 !important;
+  text-decoration: none;
 }
