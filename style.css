@@ -106,5 +106,5 @@ a:visited {
 }
 
 .project-link {
-  color: #b56fc7;
+  color: #b56fc7 !important;
 }
