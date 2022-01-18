@@ -96,3 +96,11 @@ nav ul li a:hover {
 .work-details:hover {
   background: #e4f1fe;
 }
+
+a:link {
+  color: #b56fc7;
+}
+
+a:visited {
+  color: #b56fc7;
+}
