@@ -95,3 +95,7 @@ nav ul li a:hover {
 .work-details:hover {
   background: #e4f1fe;
 }
+
+.work-header {
+  padding-top: 10px;
+}
