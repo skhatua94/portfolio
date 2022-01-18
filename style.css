@@ -95,6 +95,7 @@ nav ul li a:hover {
 
 a:link {
   color: #b56fc7;
+  text-decoration: none !important;
 }
 
 a:visited {
